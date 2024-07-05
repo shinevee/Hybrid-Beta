@@ -138,7 +138,13 @@
         "weight": 5,
         "minCount": 1,
         "maxCount": 1
-      }
+      },
+      {
+        "type": "minecraft:wolf",
+        "weight": 8,
+        "minCount": 4,
+        "maxCount": 8
+      },
     ],
     "creature": [],
     "ambient": [
